@@ -1,0 +1,6 @@
+deploy:
+  provider: s3
+  access_key_id: "AKIAIY3WPTJ6JEMQLEOQ"
+  secret_access_key: "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"
+  bucket: "S3 Bucket"
+  skip_cleanup: true
