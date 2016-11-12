@@ -4,7 +4,7 @@ deploy:
   access_key_id: AKIAIY3WPTJ6JEMQLEOQ
   secret_access_key:
     secure: Jd56ED2vSN1O1/QBXSHpp2r6SMihHn9/3b9M5bLI/oT10TJyl15qAlNa74CgTX52bZlARPEiRC57+OMGYVvE+yMF4MdMs+E4bLV2HODuS2QgSGD0AKhaMoQGAlwAZc494YRSBvWIdBxbxGQ4GO7S/k7a8046Hn8oqYwHekbhgMzD7E1cx9mbcItj/Gi22IMRz9AalhxdzuHivSKPElX8g+4A0LEpBISo6zz+ly2gyToFt0Tu17uq7RLDzwtGgBxfkR5VeMA5+cOOdikdkoaeDdu/c+mPJ1Mc0DC4xGxQC3+sDGpK04A9w+COItTNHRDeBgfF45X4M+HtKo4bfRw38KvmAZnofY7nYCtBDWSNwMYJVAzcfWQX2aZQOSnRV7ZGKhefTJ6MabUirJFgO0HnV8cNdbyB/+kXEamwae7RoF5j1DFPuLaOc9CU4sTgaOJ2LuaV88PIVmOVVBWV6yG+rkWmdBR+Oor5QkJlVZUdV18qwGSx+Fqtb8kGg0dK6gBEWLjI5ibwbPJP3qwq74iNYwR1QlPSmA9ZdRqUzPD1LOXi/I0MoIj/XqxsCPvVjFZFBChHmiY+PuWP3ndn1VaL0lSupEZs++ka+FIH2Ue+SpIlbYzf9glAPbWPt7P6c3XHyIuTRojmkl/EED60Ng8NiwAzTrWUbMiLW2nq3IAOGL8=
-  bucket: s3
+  bucket: bogicevicsasa.com
   acl: public_read_write
   on:
     repo: v0d1ch/bogicevicsasa.com
