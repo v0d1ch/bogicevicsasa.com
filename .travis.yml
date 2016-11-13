@@ -8,4 +8,4 @@ deploy:
   acl: public_read_write
   on:
     repo: v0d1ch/bogicevicsasa.com
-  region: us-east-1
+  region: eu-west-1
