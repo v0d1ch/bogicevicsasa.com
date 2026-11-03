@@ -23,8 +23,8 @@ h1 { font-size:clamp(3.7rem,6.3vw,5.2rem); line-height:.98; letter-spacing:-.065
 .lead { max-width:580px; margin-bottom:.8rem; font-size:clamp(1.35rem,2vw,1.8rem); line-height:1.25; letter-spacing:-.035em; font-weight:600; }
 .muted,.section-body p,.work-item p { color:var(--muted); line-height:1.75; }
 .intro-detail { max-width:560px; font-size:.97rem; }
-.next-focus { max-width:560px; margin:1.4rem 0 0; padding:.8rem 1rem; border-left:3px solid var(--accent); background:var(--panel); color:var(--muted); font-size:.95rem; line-height:1.65; }
-.next-focus strong { color:var(--accent-dark); }
+.rust-focus { max-width:560px; margin:1.4rem 0 0; padding:.8rem 1rem; border-left:3px solid var(--accent); background:var(--panel); color:var(--muted); font-size:.95rem; line-height:1.65; }
+.rust-focus strong { color:var(--accent-dark); }
 .intro-actions { display:flex; align-items:center; flex-wrap:wrap; gap:1.8rem; margin-top:1.8rem; }
 .button { display:inline-flex; justify-content:space-between; align-items:center; gap:2.5rem; padding:.95rem 1.1rem; background:var(--accent-dark); color:white; text-decoration:none; font-weight:600; font-size:.9rem; transition:background .18s ease,transform .18s ease; }
 .button:hover { background:var(--ink); transform:translateY(-2px); }
